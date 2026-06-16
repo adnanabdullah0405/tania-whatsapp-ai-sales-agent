@@ -141,13 +141,13 @@ Zero friction for the user. No app download, no login, no new interface. Users a
 
 ### Complete Sales Journey
 
-![Tania Screenshot 1](results/image.png)
+![Tania Screenshot 1](results/image%20(2).png)
 
-![Tania Screenshot 2](results/image(1).png)
+![Tania Screenshot 2](results/image%20(1).png)
 
-![Tania Screenshot 3](results/image(2).png)
+![Tania Screenshot 3](results/image.png)
 
-![Tania Screenshot 4](results/image(3).png)
+![Tania Screenshot 4](results/image%20(3).png)
 
 ---
 
@@ -169,10 +169,10 @@ Zero friction for the user. No app download, no login, no new interface. Users a
 ```
 tania-whatsapp-ai-sales-agent/
 ├── results/              # Demo screenshots
+│   ├── image (2).png
+│   ├── image (1).png
 │   ├── image.png
-│   ├── image(1).png
-│   ├── image(2).png
-│   └── image(3).png
+│   └── image (3).png
 ├── README.md
 ```
 
