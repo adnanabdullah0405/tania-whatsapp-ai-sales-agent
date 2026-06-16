@@ -137,6 +137,14 @@ Zero friction for the user. No app download, no login, no new interface. Users a
 
 ---
 
+## 🎬 Demo
+
+[![Watch Demo Video](https://img.shields.io/badge/▶%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge)](https://drive.google.com/file/d/14aCvaMUST4u6g5U2iP2PETUmmpSpB5fI/view?usp=sharing)
+
+> Click the button above to watch the full Tania demo video.
+
+---
+
 ## 📸 Screenshots
 
 ### Complete Sales Journey
